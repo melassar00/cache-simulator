@@ -10,6 +10,6 @@ Memory cache simulator that calculates the number of memory-writes and reads a g
 `<TRACE_FILE> trace file name with full path` <br/>
 ### Example: <br />
 ```bash
-gcc cachesimElassar.c -o SIM
+gcc cachesim.c -o SIM
 ./SIM 32768 8 0 1 (path to tracefile)
 ```
